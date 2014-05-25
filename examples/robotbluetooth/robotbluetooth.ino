@@ -25,7 +25,7 @@ void loop()
     case 'R':
       robot.rotate(250);
       break;
-    case 'L'
+    case 'L':
       robot.rotate(-250);
       break;
     default:
